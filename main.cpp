@@ -12,6 +12,6 @@ int main() // 메인이라는 이름을 가진 int 함수다. 괄호로 감싸줘야함! entry point=
 
 
 	return 0; // return=반환 해 준다 int(인티저) 정수형의 값0을 반환 해준다 = 운영체제에게 잘 끝났다라는 뜻! (알려주는 역할) 
-	//Token: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//
+	//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//
 
 }
